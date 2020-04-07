@@ -21,4 +21,3 @@ public class SubtractProductAndSum {
         return product - sum;
     }
 }
-}
